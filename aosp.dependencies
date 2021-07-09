@@ -4,8 +4,10 @@
     "target_path": "device/xiaomi/sm8250-common"
   },
   {
+    "remote": "blobs",
     "repository": "vendor_xiaomi_lmi",
-    "target_path": "vendor/xiaomi/lmi"
+    "target_path": "vendor/xiaomi/lmi",
+    "branch": "eleven"
   },
   {
     "remote": "github",
